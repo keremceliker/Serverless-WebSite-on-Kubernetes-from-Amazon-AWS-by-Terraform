@@ -135,15 +135,14 @@ kubernetes                    ClusterIP      172.20.0.1         <none>          
 
 ### 5) Browse the Serverless Web-Site on Kubernetes 
 Follow the instructions as the follows on Kubernetes Infrastructure
-`Access the Web-Site by a Internet-Browser`
+to `Access the Web-Site by a Internet-Browser`
 
-```You must be see as the follows information
+```You must be see as the follows information```
 
 <p align="center">
   <img src="pics/Static_WebSite_Response.JPG" alt="Response by Web-Site" style="width: 200px;"/>
 </p>
 
-```
 
 ### 6) Rotate a secret
 - In this scenario, you create a new secret with a new MySQL password, update the mysql and wordpress services to use it, then remove the old secret.
