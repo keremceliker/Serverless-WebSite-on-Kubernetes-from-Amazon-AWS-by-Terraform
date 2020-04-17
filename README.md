@@ -139,7 +139,10 @@ Follow the instructions as the follows on Kubernetes Infrastructure
 
 ```You must be see as the follows information
 
- <br /> ![alt text](pics/Static_WebSite_Response.JPG "Response by Web-Site")
+<p align="center">
+  <img src="pics/Static_WebSite_Response.JPG" alt="Response by Web-Site" style="width: 200px;"/>
+</p>
+
 ```
 
 ### 6) Rotate a secret
