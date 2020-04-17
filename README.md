@@ -133,15 +133,24 @@ kubernetes                    ClusterIP      172.20.0.1         <none>          
 - Once configuration is successful, log in with your credentials
 - Create your first blog
 
-### 5) Rotate a secret
+### 5) Browse the Serverless Web-Site on Kubernetes 
+Follow the instructions as the follows on Kubernetes Infrastructure
+`Access the Web-Site by a Internet-Browser`
+
+```You must be see as the follows information
+
+ <br /> ![alt text](pics/Static_WebSite_Response.JPG "Response by Web-Site")
+```
+
+### 6) Rotate a secret
 - In this scenario, you create a new secret with a new MySQL password, update the mysql and wordpress services to use it, then remove the old secret.
 - Use the instructions here: https://aws.amazon.com/tr/blogs/security/how-to-rotate-a-wordpress-mysql-database-secret-using-aws-secrets-manager-in-amazon-eks/
 
-### 6) Clean up
+### 7) Clean up
 - **Terraform** - Exit the Kubernetes master node and execute `terraform destroy` to destroy virtual kubernetes boxes
 - **AWS** -  Delete the stack from the CloudFormation service page
 
-### 7) References
+### 8) References
 - [Terraform for AWS Code](https://learn.hashicorp.com/terraform/aws/eks-intro)
 - [EKS Kubernetes for AWS](https://aws.amazon.com/eks/)
 - [Use secrets with a WordPress service](https://aws.amazon.com/tr/blogs/security/how-to-rotate-a-wordpress-mysql-database-secret-using-aws-secrets-manager-in-amazon-eks/)
