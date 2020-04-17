@@ -29,7 +29,7 @@ You must meet the following requirements:
 - Quickest to deliver solution
 - Easy to scale up/down and upgrade
 
-# One possible solution by Kerem Çeliker
+# A suggestion about the solution by Kerem Çeliker
 This is a simple solution to the DevOps challenge set above:
 - [KubeCtl-KoobCuttle](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html) will be used to provision infrastructure on a local machine for the testing of WordPress stack
 - [Amazon EKS for AWS](https://aws.amazon.com/eks/), _which is based on a CloudFormation template_, will be used to provision Kubernetes infrastructure in AWS. This infrastructure will be used for public Web-Site
