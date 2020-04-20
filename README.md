@@ -60,7 +60,7 @@ This is a simple solution to the DevOps challenge set above:
   - `cd /Publish-a-Serverless-WebSite-on-Kubernetes-from-Amazon-AWS-by-Terraform`
   - Next, move on to the "Deploy Serverless Web-Site stack" section below in order to deploy Kubernetes Web stack
   - You can write code or automatize all operations on the AWS and Kubernetes/Docker or Red Hat OpenShift Side by Visual Code Pipeline project. I also share an example My Sample Code below;
-  [alt text](pics/Visual_Studio_CodeForKubernetes.JPG "Kerem's CloudNative a Sample Code")
+  [alt text](pics/Visual_Studio_CodeForKubernetes.JPG "Kerems CloudNative a Sample Code")
   
 
 ### 2) AWS infrastructure with Kubernetes:
