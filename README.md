@@ -47,7 +47,7 @@ This is a simple solution to the DevOps challenge set above:
   -	Install latest version of  [Git bash](https://git-scm.com/downloads) for Windows Setup (As like me)
   -	Install latest version of [VMware Workstation](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) => Not Really Required, Only It's up to you.
   -	Install latest version of  [Visual Studio Code](https://code.visualstudio.com/download)
-  - Install latest version of [Terraform CLI](https://www.terraform.io/downloads.html)
+  - Install latest version of [Terraform CLI by HashiCorp](https://www.terraform.io/downloads.html)
   - Install latest version of [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
   - Install latest version of Kubernetes [KubeCtl - Kubernetes CLI](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
   - AWS Dynamo DB preperation.
