@@ -1,4 +1,4 @@
-# DevOps Challenge on Hybrid-Cloud
+# DevOps or Cloud-Native Challenge on Hybrid-Cloud
 
 This is a challenge where you can showcase your technical skills and the considerations which you make when performing devops and infrastructure tasks. Your solution may be as simple or complex as you like, provided it meets the requirements below.
 
@@ -49,7 +49,11 @@ This is a simple solution to the DevOps challenge set above:
   -	Install latest version of  [Visual Studio Code](https://code.visualstudio.com/download)
   - Install latest version of [Terraform CLI](https://www.terraform.io/downloads.html)
   - Install latest version of [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
-  - Install latest version of [KubeCtl - Kubernetes CLI](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
+  - Install latest version of Kubernetes [KubeCtl - Kubernetes CLI](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
+
+
+	****You can do this with same steps on Docker Container if you wish. It's a little easier to accomplish on it. I'll show you my next DevOps Article project how to do the same process as Docker Container on Amazon AWS Cloud and MS Azure Cloud
+
 
 1.3) *Instructions:*
   - `git clone https://github.com/keremceliker/Publish-a-Serverless-WebSite-on-Kubernetes-from-Amazon-AWS-by-Terraform.git`
